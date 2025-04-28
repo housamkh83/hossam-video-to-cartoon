@@ -1,0 +1,6 @@
+pip install transformers pillow torch torchvision ffmpeg-python
+
+
+pip install opencv-python numpy tensorflow-cpu
+
+pip install opencv-python
